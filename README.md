@@ -1,2 +1,2 @@
 # rpi-lego-car
-The is the code used to drive around a Raspberry Pi powered technic lego car i built with my kids.
+The is the code used to drive around a Raspberry Pi powered technic lego car i built with my kids. There are a few main components - a technic lego car with mindstorm motors. A webcam to watch where you are driving mounted on the car. A raspberry PI to drive the motors and the webcam. Battery pack to power the RPI and the motors. Lastly a server to host the webpage showing the output of the webcam and the control to move around the car.
